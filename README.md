@@ -30,18 +30,18 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Plasma-Physics-Books/blob/master/ppy(18).rar" style="text-decoration:none;">Basic Geophysics </a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Plasma-Physics-Books/blob/master/ppy(19).pdf" style="text-decoration:none;">The Earth's Ionosphere: Plasma Physics and Electrodynamics</a></b></li>                                 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Plasma-Physics-Books/blob/master/ppy(19).pdf" style="text-decoration:none;">Applied Geophysics</a></b></li>                                 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Plasma-Physics-Books/blob/master/ppy(20).pdf" style="text-decoration:none;"> Theoretical and Computational Plasma Physics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Plasma-Physics-Books/blob/master/ppy(20).pdf" style="text-decoration:none;"> Evolution of the Earth: Treatise on Geophysics </a></b></li>
 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Plasma-Physics-Books/blob/master/ppy(21).pdf" style="text-decoration:none;">Plasma Physics for Astrophysics</a></b></li>                                 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Plasma-Physics-Books/blob/master/ppy(21).pdf" style="text-decoration:none;">Geodesy: Treatise on Geophysics</a></b></li>                                 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Plasma-Physics-Books/blob/master/ppy(22).pdf" style="text-decoration:none;"> Atomic Physics in Hot Plasmas </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Plasma-Physics-Books/blob/master/ppy(22).pdf" style="text-decoration:none;"> Mantle Dynamics: Treatise on Geophysics </a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Plasma-Physics-Books/blob/master/ppy(23).pdf" style="text-decoration:none;"> Mineral Physics: Treatise on Geophysics </a></b></li>
 
 
 
